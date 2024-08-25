@@ -36,11 +36,11 @@ main{
     font-weight: bolder;
 }
 main p{
-    text-shadow: 2px solid rgb(183, 28, 28) ;
+    border-color: 2px rgb(183, 28, 28) ;
+    margin: 20px 0px;
 }
 main  a{
     color: white;
-    margin-top: 30px;
 }
 footer{
     text-align: center;

@@ -41,6 +41,13 @@ main p{
 }
 main  a{
     color: white;
+    text-decoration: none;
+    background-color:rgb(183, 28, 28) ;
+    padding: 10px;
+    border-radius: 10px;
+}
+main a:hover{
+    text-decoration: underline;
 }
 footer{
     text-align: center;
